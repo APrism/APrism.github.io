@@ -1,4 +1,4 @@
-let button = document.getElementById("BUTTON")
+const button = document.getElementById("myButton");
 button.addEventListener("click",function (){
-    console.log("HELLO!")
-})
+    console.log("Hello!");
+});
