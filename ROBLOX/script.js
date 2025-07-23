@@ -1,4 +1,4 @@
 let button = document.getElementById("BUTTON")
-button.addEventListener("click",() => {
+button.addEventListener("click",function (){
     console.log("HELLO!")
 })
